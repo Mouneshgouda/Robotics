@@ -1,6 +1,8 @@
 # 🛠️ Robotics System Components Overview
 
 ## 🛠️ 1. Mechanical Components
+![image](https://github.com/user-attachments/assets/15d08b88-cd29-4818-849f-8d912b6d41dd)
+
 
 📌 **Scope**: Structure, motion, and physical interaction with the environment
 
@@ -17,6 +19,9 @@ Defines the physical capabilities of the robot (range of motion, strength, speed
 ---
 
 ## ⚡ 2. Electrical & Electronic Components
+
+![image](https://github.com/user-attachments/assets/f5344deb-3e73-47e4-960b-a7f59ef6962f)
+
 
 📌 **Scope**: Power, sensing, and signal transmission
 
@@ -36,6 +41,8 @@ Provides the interface between control logic and the physical world—enabling p
 ---
 
 ## 🧠 3. Computational / Software Components
+![image](https://github.com/user-attachments/assets/56758025-d454-4365-9fee-d6986ea8fc7f)
+
 
 📌 **Scope**: Control, decision-making, and intelligence
 
