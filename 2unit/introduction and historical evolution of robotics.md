@@ -1,4 +1,4 @@
-welding and material handling# 🤖 Introduction and Historical Evolution of Robotics
+# 🤖 Introduction and Historical Evolution of Robotics
 
 ## 🟩 What is Robotics?
 ![image](https://github.com/user-attachments/assets/ccd3d6bf-4ce5-4a47-b46b-e75a0150e1ff)
