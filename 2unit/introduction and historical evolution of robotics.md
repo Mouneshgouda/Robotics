@@ -1,4 +1,4 @@
-# 🤖 Introduction and Historical Evolution of Robotics
+welding and material handling# 🤖 Introduction and Historical Evolution of Robotics
 
 ## 🟩 What is Robotics?
 ![image](https://github.com/user-attachments/assets/ccd3d6bf-4ce5-4a47-b46b-e75a0150e1ff)
@@ -41,7 +41,7 @@ Robots are used in manufacturing, space exploration, healthcare, military, agric
 - ![image](https://github.com/user-attachments/assets/a69b66f4-d906-4af5-8e34-6e2d962de7c7)
 
 - **1961**: Unimate deployed in a **General Motors** factory for welding and material handling.
-- ![image](https://github.com/user-attachments/assets/7c014a83-85ef-43d9-bf6c-26cf3be0c567)
+- ![image](https://github.com/user-attachments/assets/800722bc-a958-4ba9-9cf3-c2689d662bac)
 
 - **1970s**:
   - **Stanford Arm**: Advanced robotic manipulator.
