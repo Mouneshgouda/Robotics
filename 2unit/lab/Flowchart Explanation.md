@@ -4,6 +4,8 @@
 
 This document explains the step-by-step flow of a **line-following robot** using a basic flowchart. This type of robot is commonly used in warehouses, logistics, and robotics education.
 
+![image](https://github.com/user-attachments/assets/d4003f34-1d05-4aab-b2c6-a8bb1956b88b)
+
 
 ## 🛠️ Real-Time Explanation
 
