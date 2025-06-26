@@ -78,6 +78,13 @@ Robots are used in manufacturing, space exploration, healthcare, military, agric
   - **Autonomous vehicles** (self-driving cars)
 ![image](https://github.com/user-attachments/assets/66c216c0-6da9-4d2b-bd44-74dde9285320)
 
+
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+![Uploading image.png…]()
+
+
 ---
 
 Robotics continues to evolve, blending physical engineering with smart AI to reshape industries and daily life.
