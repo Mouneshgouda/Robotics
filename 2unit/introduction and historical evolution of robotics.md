@@ -79,10 +79,7 @@ Robots are used in manufacturing, space exploration, healthcare, military, agric
 ![image](https://github.com/user-attachments/assets/66c216c0-6da9-4d2b-bd44-74dde9285320)
 
 
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
-![Uploading image.png…]()
+https://pub.mdpi-res.com/sensors/sensors-24-03088/article_deploy/html/images/sensors-24-03088-g001.png?1715915546
 
 
 ---
